@@ -98,9 +98,11 @@ C:\Users\Damma\Documents\GitHub\SoftwareTesting\TestProjectV1\TestProjectV1\obj\
 C:\Users\Damma\Documents\GitHub\SoftwareTesting\TestProjectV1\TestProjectV1\obj\Debug\net5.0\ref\TestProjectV1.dll
 C:\Users\Damma\Documents\GitHub\SoftwareTesting\TestProjectV1\TestProjectV1\obj\Debug\net5.0\TestProjectV1.pdb
 C:\Users\Damma\Documents\GitHub\SoftwareTesting\TestProjectV1\TestProjectV1\obj\Debug\net5.0\TestProjectV1.genruntimeconfig.cache
-C:\Users\Damma\Documents\GitHub\SoftwareTesting\TestProjectV1\TestProjectV1\bin\Debug\net5.0\Calculator.deps.json
-C:\Users\Damma\Documents\GitHub\SoftwareTesting\TestProjectV1\TestProjectV1\bin\Debug\net5.0\Calculator.runtimeconfig.json
-C:\Users\Damma\Documents\GitHub\SoftwareTesting\TestProjectV1\TestProjectV1\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
-C:\Users\Damma\Documents\GitHub\SoftwareTesting\TestProjectV1\TestProjectV1\bin\Debug\net5.0\Calculator.exe
-C:\Users\Damma\Documents\GitHub\SoftwareTesting\TestProjectV1\TestProjectV1\bin\Debug\net5.0\Calculator.dll
-C:\Users\Damma\Documents\GitHub\SoftwareTesting\TestProjectV1\TestProjectV1\bin\Debug\net5.0\Calculator.pdb
+C:\Users\Damma\Documents\GitHub\SoftwareTesting\TestProjectV1\TestProjectV1\bin\Debug\net5.0\CalculatorProject.deps.json
+C:\Users\Damma\Documents\GitHub\SoftwareTesting\TestProjectV1\TestProjectV1\bin\Debug\net5.0\CalculatorProject.runtimeconfig.json
+C:\Users\Damma\Documents\GitHub\SoftwareTesting\TestProjectV1\TestProjectV1\bin\Debug\net5.0\CalculatorProject.runtimeconfig.dev.json
+C:\Users\Damma\Documents\GitHub\SoftwareTesting\TestProjectV1\TestProjectV1\bin\Debug\net5.0\CalculatorProject.exe
+C:\Users\Damma\Documents\GitHub\SoftwareTesting\TestProjectV1\TestProjectV1\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Damma\Documents\GitHub\SoftwareTesting\TestProjectV1\TestProjectV1\bin\Debug\net5.0\Moq.dll
+C:\Users\Damma\Documents\GitHub\SoftwareTesting\TestProjectV1\TestProjectV1\bin\Debug\net5.0\CalculatorProject.dll
+C:\Users\Damma\Documents\GitHub\SoftwareTesting\TestProjectV1\TestProjectV1\bin\Debug\net5.0\CalculatorProject.pdb
