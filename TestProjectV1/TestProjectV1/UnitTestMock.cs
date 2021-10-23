@@ -25,7 +25,7 @@ namespace TestProjectV1
             });
 
             // Then, Assert
-            Assert.True(exception.Message.Contains("time to make some maintenance!"));
+            Assert.Contains("time to make some maintenance!", exception.Message);
 
             mockDateTime.Verify(mock => mock.GetNow(), Times.Once);
         }
