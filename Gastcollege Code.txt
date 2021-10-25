@@ -1,0 +1,41 @@
+1) /// <reference types="cypress" />
+describe('my first test', () => {
+beforeEach('Visit website', () => {
+cy.visit('https://petstore.swagger.io')
+});
+it('pressButton', () => {
+const petId = 30;
+cy.get('#operations-pet-getPetById').should('be.visible').click()
+cy.get('[id=operations-pet-getPetById] button[class="btn try-out__btn"]')
+.should('be.visible').click()
+cy.get('[id=operations-pet-getPetById] input').type(petId)
+cy.get('.execute-wrapper > .btn').click()
+})
+});
+
+2) /// <reference types="cypress" />
+describe('my first test', () => {
+beforeEach('Visit website', () => {
+cy.visit('https://petstore.swagger.io')
+});
+it('pressButton', () => {
+const petId = 30;
+cy.get('#operations-pet-getPetById').should('be.visible').click()
+cy.get('[id=operations-pet-getPetById] button[class="btn try-out__btn"]')
+.should('be.visible').click()
+cy.get('[id=operations-pet-getPetById] input').type(petId)
+cy.get('[id="get_pet__petId__responses_select"]').select('application/xml')
+cy.get('.execute-wrapper > .btn').click()
+});
+
+3) it('pressButton', () => {
+const petId = 30;
+cy.intercept('get', '/v2/pet/*').as('addPet')
+cy.get('#operations-pet-getPetById').should('be.visible').click()
+cy.get('[id=operations-pet-getPetById] button[class="btn try-out__btn"]')
+.should('be.visible').click()
+cy.get('[id=operations-pet-getPetById] input').type(petId)
+cy.get('[id="get_pet__petId__responses_select"]').select('application/xml')
+cy.get('.execute-wrapper > .btn').click()
+cy.wait('@addPet').its('response.statusCode').should('eq', '200')
+})
