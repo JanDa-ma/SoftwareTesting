@@ -13,7 +13,7 @@ namespace WebCalculatorIT
 
         public Boolean CreatePayment(string namePayment)
         {
-            return false;
+            return true;
         }
     }
 }
