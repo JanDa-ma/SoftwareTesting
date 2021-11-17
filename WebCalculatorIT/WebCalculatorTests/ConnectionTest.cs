@@ -1,3 +1,4 @@
+using FluentAssertions;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Threading.Tasks;
@@ -35,13 +36,13 @@ namespace WebCalculatorTests
 
             using (var client = context.Client)
             {
-                var response = await client.GetAsync("/api/calculator/sum?x=2&y=3");
+                var response = await client.GetAsync("/api/calculator/sum?x=1&y=2");
 
-                Assert.True(response.IsSuccessStatusCode);
+                response.IsSuccessStatusCode.Should().Be(true);
 
                 var content = await response.Content.ReadAsStringAsync();
 
-                Assert.Equal("3", content);
+                content.Should().Be("3");
             }
         }
     }
