@@ -19,7 +19,6 @@ C:\Users\Damma\Documents\GitHub\SoftwareTesting\WebCalculatorIT\WebCalculatorIT\
 C:\Users\Damma\Documents\GitHub\SoftwareTesting\WebCalculatorIT\WebCalculatorIT\obj\Debug\net5.0\WebCalculatorIT.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Damma\Documents\GitHub\SoftwareTesting\WebCalculatorIT\WebCalculatorIT\obj\Debug\net5.0\WebCalculatorIT.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Damma\Documents\GitHub\SoftwareTesting\WebCalculatorIT\WebCalculatorIT\obj\Debug\net5.0\staticwebassets\WebCalculatorIT.StaticWebAssets.Manifest.cache
-C:\Users\Damma\Documents\GitHub\SoftwareTesting\WebCalculatorIT\WebCalculatorIT\obj\Debug\net5.0\staticwebassets\WebCalculatorIT.StaticWebAssets.xml
 C:\Users\Damma\Documents\GitHub\SoftwareTesting\WebCalculatorIT\WebCalculatorIT\obj\Debug\net5.0\scopedcss\bundle\WebCalculatorIT.styles.css
 C:\Users\Damma\Documents\GitHub\SoftwareTesting\WebCalculatorIT\WebCalculatorIT\obj\Debug\net5.0\WebCalculatorIT.RazorTargetAssemblyInfo.cache
 C:\Users\Damma\Documents\GitHub\SoftwareTesting\WebCalculatorIT\WebCalculatorIT\obj\Debug\net5.0\WebCalculatorIT.csproj.CopyComplete
@@ -42,3 +41,4 @@ C:\Users\Damma\Documents\GitHub\SoftwareTesting\WebCalculatorIT\WebCalculatorIT\
 C:\Users\Damma\Documents\GitHub\SoftwareTesting\WebCalculatorIT\WebCalculatorIT\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 C:\Users\Damma\Documents\GitHub\SoftwareTesting\WebCalculatorIT\WebCalculatorIT\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Damma\Documents\GitHub\SoftwareTesting\WebCalculatorIT\WebCalculatorIT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Damma\Documents\GitHub\SoftwareTesting\WebCalculatorIT\WebCalculatorIT\bin\Debug\net5.0\WebCalculatorIT.StaticWebAssets.xml
