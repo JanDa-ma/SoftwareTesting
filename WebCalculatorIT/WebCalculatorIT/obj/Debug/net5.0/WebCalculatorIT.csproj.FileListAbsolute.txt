@@ -41,4 +41,5 @@ C:\Users\Damma\Documents\GitHub\SoftwareTesting\WebCalculatorIT\WebCalculatorIT\
 C:\Users\Damma\Documents\GitHub\SoftwareTesting\WebCalculatorIT\WebCalculatorIT\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 C:\Users\Damma\Documents\GitHub\SoftwareTesting\WebCalculatorIT\WebCalculatorIT\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Damma\Documents\GitHub\SoftwareTesting\WebCalculatorIT\WebCalculatorIT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Damma\Documents\GitHub\SoftwareTesting\WebCalculatorIT\WebCalculatorIT\bin\Debug\net5.0\WebCalculatorIT.StaticWebAssets.xml
+C:\Users\Damma\Documents\GitHub\SoftwareTesting\WebCalculatorIT\WebCalculatorIT\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Damma\Documents\GitHub\SoftwareTesting\WebCalculatorIT\WebCalculatorIT\bin\Debug\net5.0\WebDriver.dll
